@@ -6,6 +6,7 @@ def pergunta ()
 return escolha
 end
 
+
 def calculo ()
     x = pergunta
     print 'Dias de trabalho: '
